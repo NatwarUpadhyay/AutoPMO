@@ -400,6 +400,19 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
+---
+
+## 🚧 Project Status
+
+**Note:** This project is currently a work in progress. Many of the documentation links and features referenced above are still under development. After exploring various frameworks and architectural approaches, I've decided to pause active development for now.
+
+**Please note that some links in this README may not be working yet.**
+
+Feel free to fork this repository and build upon the ideas and foundation presented here. Contributions and implementations of the proposed architecture are welcome!
+
+---
+
+
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/autopmo/issues)

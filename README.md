@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![AutoPMO Logo](docs/images/logo.png)
 
 **Autonomous Project Management for Cloud Migrations**
 

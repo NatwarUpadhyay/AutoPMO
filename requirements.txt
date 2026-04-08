@@ -43,7 +43,7 @@ python-keycloak==3.8.0
 # HTTP & API
 httpx==0.26.0
 aiohttp==3.9.1
-requests==2.31.0
+requests==2.33.0
 
 # Utilities
 python-dotenv==1.0.1

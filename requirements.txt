@@ -16,7 +16,7 @@ redis==5.0.1
 langchain==0.1.4
 langchain-community==0.0.13
 openai==1.10.0  # OpenAI-compatible API
-transformers==4.37.0
+transformers==5.0.0rc3
 torch==2.1.2
 tensorflow==2.15.0
 scikit-learn==1.4.0
